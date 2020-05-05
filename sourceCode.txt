@@ -1,0 +1,5 @@
+repeatTill(1000)
+{
+show(“Sorry Teacher I will not do it again \n”);
+
+}
